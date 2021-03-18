@@ -2,11 +2,12 @@ import React from 'react';
 import './App.css';
 
 function App() {
+
   return (
-    <div>
-      Begin hier met de opdracht!
-    </div>
-  );
+      <div>
+          {/*write your code here*/}
+      </div>
+    )
 }
 
 export default App;
